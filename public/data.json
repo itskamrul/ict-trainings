@@ -1,0 +1,72 @@
+[
+    {
+      "key": 1,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c6a6ecb31dac.jpg",
+      "name": "SEO & Online Earning",
+      "price": 5000,
+      "description": "SEO comprises the set of practices used for optimizing a website for increased visibility and relevance in search engine rankings. Basic principles of SEO are not only clear and precise to understand, but they are also essential and easy for building a successful web presence for your business."
+    },
+    {
+      "key": 2,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c88b095801c6.jpg",
+      "name": "Spoken English",
+      "price": 4000,
+      "description": "There are several factors that make the English language essential to communicate in the current time. Firstly, it is the most common foreign language. This means that two people from different countries communicate through English. So in order to get in touch on an international level."
+    },
+    {
+      "key": 3,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c88af96a9876.jpg",
+      "name": "Full Stack Development",
+      "price": 10000,
+      "description": "Full Stack Development is HTML, CSS, Javascript, JQuery, Bootstrap, MongoDB, Express, Angular and Node.js training will help you to learn: Building full-stack applications in JavaScript using the latest technologies, Architect Full stack applications from scratch"
+    },
+    {
+      "key": 4,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5f2ba603da452.jpg",
+      "name": "Video Editing Course",
+      "price": 8000,
+      "description": "This video editing course is meant for beginners who want to take it as career or just interested in skill enhancement. No prior video editing knowledge is required. Training take-up from opening video editing software then to the various panel windows to edit clips together."
+    },
+    {
+      "key": 5,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_602bd1ec8925b.jpg",
+      "name": "Digital Marketing",
+      "price": 9000,
+      "description": "Digital Marketing is like breath to the businesses today, so learning it gives you the highest place in the business world. Training is carefully designed to meet all the requirements of the Digital Marketer job role in the current market. The course also addresses the ECommerce trends."
+    },
+    {
+      "key": 6,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c80e91d67dd2.jpg",
+      "name": "IT Office",
+      "price": 3000,
+      "description": "Microsoft Office (IT Office) is a collection of software and services developed by Microsoft. Stepping into the world of Microsoft and learning will benefit you in every aspect of life. Ms Office consists of many software like Word, Excel, Powerpoint and Outlook etc."
+    },
+    {
+      "key": 7,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c7117010bc1f.jpg",
+      "name": "Graphics Designing",
+      "price": 7000,
+      "description": "Graphic-design is the process of formatting, illustration, and photography. This product involves around symbols, images and texts are created and combined to form visual representations of ideas and messages."
+    },
+    {
+      "key": 8,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c88b149a848d.jpg",
+      "name": "Web Designing ",
+      "price": 9000,
+      "description": "Web design encompasses many different skills in the creation and up-keeping of websites. The visual aspect of a web site has a direct link to web designing. Web designing is a subset of web development. However, these terms are utilized interchangeably. Web design uses many of the."
+    },
+    {
+      "key": 9,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c6a6ea24ea1e.jpg",
+      "name": "Python Web Development ",
+      "price": 12000,
+      "description": "Python course helps you to rapidly develop feature-rich applications, Structure code with classes, functions, modules and OO features, access standard and third-party modules and packages.Down below you will see why python is created and what application areas of python are."
+    },
+    {
+      "key": 10,
+      "img": "https://ict-trainings.com/storage/app/public/course/banner_5c88b17c6717a.jpg",
+      "name": "MySQL & PHP - Laravel",
+      "price": 11000,
+      "description": "PHP and its framework Laravel is an explained, high-level web programming language. Moreover, its object-oriented approach aims to avail programmers inscribe clear, logical code for minuscule and astronomically immense-scale projects. Professional programming demands skills."
+    }
+  ]

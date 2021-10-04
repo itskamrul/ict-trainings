@@ -1,0 +1,8 @@
+.header{
+    background-image: url("../../images/bg.jpg");
+    padding: 120px 40px;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
