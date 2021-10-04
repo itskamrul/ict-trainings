@@ -1,13 +1,15 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Navbar.css'
+import logo from '../../images/logo.png'
 
 const Navbar = () => {
     return (
-        <div className=' fw-bold position-static top-0 start-0 '>
+        <div className=' fw-bold fixed-top mb-5 '>
             <nav className="nav-container navbar navbar-expand-lg navbar-ligth">
                 <div className="container d-flex">
-                <p className="navbar-brand"><span className='fast-name' >ICT</span> <span className='text-danger'>Trainings</span></p>
+                    <img className="navbar-brand" style={{height:'50px'}} src={logo} alt='logo' />
+                {/* <p><span className='fast-name' >ICT</span> <span className='text-danger'>Trainings</span></p> */}
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon collaps-button"></span>
                     </button>

@@ -4,9 +4,9 @@ import image2 from '../../images/2.jpg'
 
 const About = () => {
     return (
-        <div className="mt-3 container">
+        <div className="container">
             {/* about section */}
-            <div className='mb-4'>
+            <div className='mb-4 pt-5'>
                 <h2 className="text-center my-4  fw-bold">About ICT</h2>
                 <p className="text-center  mb-3">ICT Trainings Institute</p>
             </div>
