@@ -31,7 +31,7 @@ const Navbar = () => {
                                 fontWeight: "bold",
                                 color: "red"
                               }}
-                             to="/abouth">Abouth</NavLink>
+                             to="/about">About us</NavLink>
                             </li>
                             <li className="nav-link active" aria-current="page" href="#"><NavLink
                             activeStyle={{

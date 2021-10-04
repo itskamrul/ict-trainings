@@ -4,8 +4,9 @@ import {
   Route
 } from "react-router-dom";
 import './App.css';
-import Abouth from "./components/Abouth/Abouth";
+import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer";
 import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
 import NotFound from "./components/NotFound/NotFound";
@@ -26,8 +27,8 @@ function App() {
           <Route path='/service'>
             <Service></Service>
           </Route>
-          <Route path='/abouth'>
-            <Abouth></Abouth>
+          <Route path='/about'>
+            <About></About>
           </Route>
           <Route path='/contact'>
             <Contact></Contact>
@@ -36,6 +37,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
