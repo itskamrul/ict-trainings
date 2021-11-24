@@ -1,6 +1,6 @@
 # ICT TRAININGS
 
-IT Professional Training Institute [ICT TRAININGS](https://github.com/facebook/create-react-app).
+IT Professional Training Institute [ICT TRAININGS](https://ict-trainings.netlify.app/).
 
 ## About our course
 
